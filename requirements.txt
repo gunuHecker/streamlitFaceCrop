@@ -1,0 +1,10 @@
+streamlit
+numpy
+opencv-python-headless
+mediapipe
+torch
+pillow
+rembg
+torchvision
+face-crop-plus
+onnxruntime-gpu
