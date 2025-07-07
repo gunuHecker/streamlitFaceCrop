@@ -1,0 +1,17 @@
+# color: [R, G, B]
+
+face:
+  color: [165, 57, 0]
+  weight: 0.1
+
+eyes:
+  color: [52, 124, 44]
+  weight: 0.15
+
+lip:
+  color: [142, 30, 29]
+  weight: 0.2
+
+eyebrow:
+  color: [200, 200, 200]
+  weight: 0.08
